@@ -106,11 +106,6 @@ online-retail-customer-segmentation/
 git clone https://github.com/GargAditya011/online-retail-customer-segmentation.git
 ```
 
-### Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
 ### Run the Notebook
 Open the Jupyter Notebook:
 ```bash
